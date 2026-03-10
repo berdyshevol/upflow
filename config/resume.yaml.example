@@ -1,0 +1,7 @@
+# Your resume/experience summary for cover letter generation
+experience:
+  - Role: Senior Developer
+    Period: 2020 - Present
+    Highlights:
+      - Developed automation tools using Node.js
+      - Integrated AI (Claude, OpenAI) into business workflows

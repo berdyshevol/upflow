@@ -1,0 +1,6 @@
+# Your job filtering criteria
+criteria:
+  - Max budget: 1000
+  - Client rating: 4.5+
+  - Preferred countries: [US, UK, CA, DE]
+  - Disallowed keywords: [entry-level, junior, copy-paste]

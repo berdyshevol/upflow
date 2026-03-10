@@ -1,3 +1,9 @@
+node_modules/
+.env
+*.sqlite
+config/*.yaml
+!config/*.yaml.example
+dist/
 .claude/
 .cursor/
 .windsurf/
